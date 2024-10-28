@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|e:\\epn\\epn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|solutionrelative:epn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|e:\\epn\\epn\\connectionstring.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|solutionrelative:epn\\connectionstring.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|E:\\EPN\\epn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB732AB1-6244-4268-BE1F-B3984E2AB6A3}|EPN\\EPN.csproj|solutionrelative:epn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\EPN\\EPN\\Form1.cs",
+              "RelativeDocumentMoniker": "EPN\\Form1.cs",
+              "ToolTip": "E:\\EPN\\EPN\\Form1.cs",
+              "RelativeToolTip": "EPN\\Form1.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAgwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:01:58.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "connectionString.txt",
+              "DocumentMoniker": "E:\\EPN\\EPN\\connectionString.txt",
+              "RelativeDocumentMoniker": "EPN\\connectionString.txt",
+              "ToolTip": "E:\\EPN\\EPN\\connectionString.txt",
+              "RelativeToolTip": "EPN\\connectionString.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-27T21:05:35.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\EPN\\EPN\\Form1.cs",
+              "RelativeDocumentMoniker": "EPN\\Form1.cs",
+              "ToolTip": "E:\\EPN\\EPN\\Form1.cs [Design]",
+              "RelativeToolTip": "EPN\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:58:47.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
